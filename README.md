@@ -17,7 +17,7 @@ The player controls a spaceship at the bottom of the screen, moving it left or r
 - **Multiple Waves:** Aliens become faster and more challenging with each successive wave.
 
 ### Controls:
-- **Arrow Keys:** Move the spaceship left or right.
+- **Arrow Keys OR A & D:** Move the spaceship left or right.
 - **Spacebar:** Fire projectiles.
 
 ## 📃 Requirements
