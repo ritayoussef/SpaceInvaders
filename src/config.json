@@ -1,0 +1,136 @@
+{
+	"images": [
+		{
+			"name": "player",
+			"path": "./assets/images/ship_sprites.png",
+			"width": 80,
+			"height": 48
+		},
+		{
+			"name": "shooting",
+			"path": "./assets/images/explosion_sprites.png",
+			"width": 80,
+			"height": 16
+		},
+		{
+			"name": "bullets",
+			"path": "./assets/images/laser-bolts_sprites.png",
+			"width": 32,
+			"height": 32
+		},
+		{
+			"name": "powerUps",
+			"path": "./assets/images/power-up_sprites.png",
+			"width": 32,
+			"height": 32
+		},
+		{
+			"name": "smallEnemies",
+			"path": "./assets/images/enemy-small_sprites.png",
+			"width": 32,
+			"height": 16
+		},
+		{
+			"name": "mediumEnemies",
+			"path": "./assets/images/enemy-medium_sprites.png",
+			"width": 64,
+			"height": 16
+		},
+		{
+			"name": "bigEnemies",
+			"path": "./assets/images/enemy-big_sprites.png",
+			"width": 64,
+			"height": 32
+		},
+		{
+			"name": "Background",
+			"path": "./assets/images/spaceInvaders.jpg",
+			"width": 1024,
+			"height": 1024
+		},
+		{
+			"name": "Space",
+			"path": "./assets/images/space.jpg",
+			"width": 1297,
+			"height": 500
+		},
+		{
+			"name": "Victory",
+			"path": "./assets/images/win.jpg",
+			"width": 612,
+			"height": 612
+		},
+		{
+			"name": "GameOver",
+			"path": "./assets/images/gameOver.jpg",
+			"width": 612,
+			"height": 427
+		},
+		{
+			"name": "Health",
+			"path": "./assets/images/health.png",
+			"width": 630,
+			"height": 1074
+		}
+
+		
+
+	],
+	"fonts": [
+		{
+			"name": "Arcade",
+			"path": "./assets/fonts/karmatic-arcade-font/KarmaticArcade-6Yrp1.ttf"
+		},
+		{
+			"name": "Montserrat",
+			"path": "./assets/fonts/montserrat-font/MontserratExtrabold-VGO60.ttf"
+		}
+
+	],
+	"sounds": [
+		{
+			"name": "alien-techno",
+			"path": "./assets/sounds/alien-techno-249819.mp3",
+			"size": 1,
+			"volume": 1,
+			"loop": true
+		},
+		{
+			"name": "alien-destruction",
+			"path": "./assets/sounds/sci-fi-interface-menu-select-betacut-1-00-01.mp3",
+			"size": 1,
+			"volume": 0.5
+		},
+		{
+			"name": "player-damage",
+			"path": "./assets/sounds/damage-40114.mp3",
+			"size": 1,
+			"volume": 0.5
+		},
+		{
+			"name": "player-shooting",
+			"path": "./assets/sounds/laser-gun-81720.mp3",
+			"size": 1,
+			"volume": 0.5
+		},
+		{
+			"name": "game-over",
+			"path": "./assets/sounds/videogame-death-sound-43894.mp3",
+			"size": 1,
+			"volume": 0.5
+		},
+		{
+			"name": "powerup",
+			"path": "./assets/sounds/power_up_grab-88510.mp3",
+			"size": 1,
+			"volume": 0.5
+		},
+		{
+			"name": "victory",
+			"path": "./assets/sounds/goodresult-82807.mp3",
+			"size": 1,
+			"volume": 0.5
+		}
+		
+	]
+}
