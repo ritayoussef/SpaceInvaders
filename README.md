@@ -1,4 +1,4 @@
-# Space Invaders
+# Space Invaders 🚀
 
 # Sample Proposal - Space Invaders
 
